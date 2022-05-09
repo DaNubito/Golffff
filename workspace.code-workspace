@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Coding\\Assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MatterJSBoilerPlate-master"
+	}
+}
